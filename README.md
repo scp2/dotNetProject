@@ -1,0 +1,2 @@
+# doteNetFirstProject
+.NET console app 
